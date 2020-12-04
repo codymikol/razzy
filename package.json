@@ -1,6 +1,6 @@
 {
   "name": "razzy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A framework agnostic testing platform built with resilience in mind",
   "main": "index.ts",
   "author": "Cody Mikol",
